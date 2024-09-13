@@ -1,0 +1,15 @@
+Definir Versão
+pyenv local 3.12.2
+
+Criar Ambiente
+python -m venv .venv
+
+Linux
+source .venv/Scripts/activate
+
+Windows
+.venv\Scripts\activate
+
+.venv/Scripts/activate
+".venv/Scripts/activate"
+

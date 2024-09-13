@@ -1,0 +1,6 @@
+mkdocs new .
+
+Depois das Alterações
+
+mkdocs build
+mkdocs gh-deploy
