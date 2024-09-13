@@ -1,0 +1,9 @@
+site_name: Pipeline AI
+
+theme:
+  name: "material"
+
+plugins:
+  - search
+  - mkdocstrings:
+      default_handler: python
